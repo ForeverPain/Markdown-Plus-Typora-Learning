@@ -1,1 +1,1 @@
-# Typora-Deep-Learning
+# Markdown-Plus-Typora-Learning
